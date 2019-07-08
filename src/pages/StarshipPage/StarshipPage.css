@@ -1,0 +1,4 @@
+.StarshipPage {
+    display: flex;
+    flex-direction: column;
+}
